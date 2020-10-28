@@ -1,5 +1,4 @@
 import numpy as np
-import pytest
 
 from simple_functions import pi
 
